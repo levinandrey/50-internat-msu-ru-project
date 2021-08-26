@@ -6,8 +6,5 @@ echo $date
 sudo git add . 
 sudo git commit -m "$date"
 
-git push --force https://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@github.com/levinandrey/50-internat-msu-ru-project.git
-
-
-
-
+token="ghp_PdOww""QjzS6gn""l4kpW5H5Qfe1""fsP82W4aTtQK"
+git push --force https://"$token"@github.com/levinandrey/50-internat-msu-ru-project.git
